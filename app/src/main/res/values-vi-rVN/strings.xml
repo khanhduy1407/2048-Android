@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2021 NKDuy Developer
+  ~
+  ~ This program is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ This program is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_tutorial">Hướng dẫn</string>
+    <string name="action_stat">Thống kê</string>
+    <string name="action_main">Trang chủ</string>
+    <string name="settings_name">Cài đặt</string>
+    <string name="settings_animation">Chuyển động mượt</string>
+    <string name="settings_display">Khóa màn hình</string>
+    <string name="settings_color">Chọn màu ô số</string>
+    <string name="new_Game_Button">Ván mới</string>
+    <string name="continue_Game_Button">Chơi tiếp</string>
+    <string name="Record_Button">Điểm cao</string>
+    <string name="Points_Button">Điểm</string>
+    <string name="Winning_Message">Bạn đã thắng. Bạn có muốn tiếp tục không?</string>
+    <string name="Yes_Message">Có</string>
+    <string name="No_Message">Không</string>
+    <string name="Titel_V_Message">Chiến thắng</string>
+    <string name="Titel_L_Message">Điểm đã lưu:%1$d</string>
+    <string name="Lost_Message">Không thể di chuyển được nữa. Điểm đã lưu của bạn là:%1$d. Bạn có muốn bắt đầu một trò chơi mới không?</string>
+    <string name="next">Tiếp</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="Tutorial_Titel">Chào mừng!</string>
+    <string name="Tutorial_Instruction">Trong các trang trình bày sau, bạn sẽ học cách chơi 2048.</string>
+    <string name="Tutorial_Titel_Move">Học cách di chuyển các con số!</string>
+    <string name="Tutorial_Move">Để di chuyển tất cả các số ở vị trí có thể theo một hướng, bạn phải vuốt ngón tay theo cùng một hướng.</string>
+    <string name="Tutorial_Titel_Add">Làm thế nào để kết hợp các số!</string>
+    <string name="Tutorial_Add">Để có được điểm cao hơn, bạn phải kết hợp các số có cùng giá trị. Mục tiêu là đến 2048 và cao hơn.</string>
+    <string name="Stat_High_Number">Ô cao nhất</string>
+    <string name="Stat_High_Point">Điểm cao nhất</string>
+    <string name="Stat_Amount_Undo">Số lần hoàn tác</string>
+    <string name="Stat_Amount_Swipe">Tổng số lần vuốt</string>
+    <string name="Stat_Swipes_Left">Trái</string>
+    <string name="Stat_Swipes_Right">Phải</string>
+    <string name="Stat_Swipes_Down">Xuống</string>
+    <string name="Stat_Swipes_Up">Lên</string>
+    <string name="Stat_Time">Thời gian chơi</string>
+    <string name="Stat_Time_Swipes">Thời gian mỗi lần vuốt</string>
+    <string name="reset_stats">Đặt lại thống kê</string>
+</resources>
